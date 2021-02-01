@@ -1,0 +1,4 @@
+# ignore targz's 
+*.tar.gz
+# except for this one
+!.gitignore
